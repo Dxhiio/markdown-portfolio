@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+1. TECH
+	1. PC
+		1. GPU
+		2. MOBO
+		3. GAMES
+2. FOOD
+	1. CHINESE
+	2. MEXICAN
+
